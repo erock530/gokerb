@@ -1,0 +1,4 @@
+*.swp
+*.6
+/khttp-proxy/khttp-proxy
+vendor
