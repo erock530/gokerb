@@ -43,7 +43,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Novetta/go.logging"
+	"github.com/erock530/go.logging"
 )
 
 func chooseAlgorithm(msg *errorMessage) (etype int, salt string, err error) {

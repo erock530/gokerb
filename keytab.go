@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"time"
 
-	"github.com/Novetta/go.logging"
+	"github.com/erock530/go.logging"
 )
 
 const (

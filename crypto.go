@@ -25,7 +25,7 @@ import (
 	"unicode/utf16"
 	"unsafe"
 
-	logging "github.com/Novetta/go.logging"
+	logging "github.com/erock530/go.logging"
 
 	"golang.org/x/crypto/md4"
 )

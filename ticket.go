@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Novetta/asn1"
-	"github.com/Novetta/go.logging"
+	"github.com/erock530/asn1"
+	"github.com/erock530/go.logging"
 )
 
 const (

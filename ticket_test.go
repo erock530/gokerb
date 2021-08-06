@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Novetta/asn1"
+	"github.com/erock530/asn1"
 )
 
 var _ = fmt.Println

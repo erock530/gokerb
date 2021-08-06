@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Novetta/asn1"
-	logging "github.com/Novetta/go.logging"
+	"github.com/erock530/asn1"
+	logging "github.com/erock530/go.logging"
 )
 
 //Errkrb is returned as part of the kerberos process

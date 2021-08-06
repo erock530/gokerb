@@ -15,7 +15,7 @@ import (
 	"bytes"
 	"unsafe"
 
-	logging "github.com/Novetta/go.logging"
+	logging "github.com/erock530/go.logging"
 )
 
 type aesHmac struct {

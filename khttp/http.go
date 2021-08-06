@@ -12,8 +12,8 @@ import (
 	"os"
 	"strings"
 
-	logging "github.com/Novetta/go.logging"
-	kerb "github.com/Novetta/gokerb"
+	logging "github.com/erock530/go.logging"
+	kerb "github.com/erock530/gokerb"
 )
 
 // Transport is a HTTP client transport that authenticates all outgoing
